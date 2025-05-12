@@ -29,23 +29,19 @@ A fun web app that generates memes in real-time using the Imgflip API. Just type
 🌟 **How to Use**
 
   - Type a funny caption (e.g., "When the WiFi disconnects...").
-
   - Click Generate Meme.
-
   - The app will fetch a random meme template and add your text!
+  - To share this with friends, send them the GitHub repo link or a hosted version (e.g., via [Netlify Drop](https://app.netlify.com/drop)). 
 
 📚 **Tech Stack**
 
   - Frontend: HTML, CSS, JavaScript
-
   - API: Imgflip (free tier)
 
 🧠 **Future Ideas**
 
   - Let users select meme templates from a dropdown.
-
   - Add a download button to save memes.
-
   - Integrate DALL·E for custom AI-generated images.
 
 🤝 **Contributing**
